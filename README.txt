@@ -1,5 +1,10 @@
-Automatic facial enhancement and beautification app.
+Automatic facial enhancement and beautification app. Made with OpenCV and OpenGL. The user can adjust the size and position of their
+face features as well as change the light.
 Author: Ewa Gorka
+
+!!The 68 face landmarks predictor is required.!!
+https://www.studytonight.com/post/dlib-68-points-face-landmark-detection-with-opencv-and-python
+
 
 To start the app run the rendering.py file
 
